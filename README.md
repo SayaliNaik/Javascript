@@ -1,2 +1,2 @@
 # Javascript
-Test basic ES6
+Understand the basics
